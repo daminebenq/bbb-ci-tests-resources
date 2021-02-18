@@ -1,1 +1,0 @@
-## BigBlueButton CI Tests Resources - bbb-ci-tests-resources
